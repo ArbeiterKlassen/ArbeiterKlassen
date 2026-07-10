@@ -101,7 +101,7 @@
 | 🏆 Award | 🏛️ Organization | 📅 Year |
 |:---|:---|:---:|
 | **National Key Project · Excellent Completion** (国家级重点优秀结题) | National College Student Innovation Program (大创) — Wheel-Legged Robot · OpenVINS SLAM | 2026 |
-| **2nd Prize** (全国二等奖) | 高教杯全国大学生数学建模竞赛 (CUMCM) | 2025 |
+| **2nd Prize** (二等奖) | 高教杯全国大学生数学建模竞赛 (CUMCM) | 2025 |
 | **Provincial 2nd Prize** (省二等奖) | National Olympiad in Informatics (NOI) | High School |
 
 </div>
