@@ -15,7 +15,7 @@
 <td width="70%">
 
 🎓 **Undergraduate Student** @ [Wuhan University](https://www.whu.edu.cn/)
-   - School of Electronic Information · Communication Engineering (2023-)
+   - School of Electronic Information · Telecommunications Engineering (2024-)
 
 🔬 **Research Intern** @ [LIESMARS](http://www.liesmars.whu.edu.cn/)
    - State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing
