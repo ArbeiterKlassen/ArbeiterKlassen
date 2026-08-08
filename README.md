@@ -15,10 +15,14 @@
 <td width="70%">
 
 🎓 **Undergraduate Student** @ [Wuhan University](https://www.whu.edu.cn/)
-   - School of Electronic Information · Telecommunications Engineering (2024-)
+   - School of Electronic Information · Telecommunications Engineering (2024 - 2028)
+   - Rising Junior · 即将升入大三
 
 🔬 **Research Intern** @ [LIESMARS](http://www.liesmars.whu.edu.cn/)
    - State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing
+
+🧑‍🏫 **Undergraduate Researcher** under Assoc. Prof. Yu Huai (余淮) @ WHU School of Electronic Information
+   - SLAM · Wheel-Legged Robot · National Innovation Program (2025 - Present)
 
 📝 **Paper** under review @ **AAAI**
 
@@ -84,11 +88,12 @@
 | 🗓️ Date | 📰 News |
 |:---:|---|
 | 🏆 2026 | 🎓 National College Student Innovation Program — **National Key Project, Excellent Completion** (大创国家级重点优秀结题) — Wheel-Legged Robot SLAM with OpenVINS |
+| 🔬 2026-03 | Research Intern @ **LIESMARS**, Wuhan University |
 | 🥈 2025 | 📐 **2nd Prize**, National Mathematical Modeling Contest (高教杯全国数模大赛二等奖) |
 | 🎓 2025 | 📝 Paper under review @ **AAAI** |
-| 🔬 2024- | Research Intern @ **LIESMARS**, Wuhan University |
+| 🧑‍🔬 2025-09 | Research with Assoc. Prof. Yu Huai (余淮) @ WHU School of Electronic Information — SLAM · Wheel-Legged Robot (大创) |
 | 💻 High School | 🏅 **Provincial 2nd Prize**, National Olympiad in Informatics (NOI省二等奖) |
-| 🏫 2023 | Started B.Eng. in Communication Engineering @ **WHU** |
+| 🏫 2024 | Started B.Eng. in Telecommunications Engineering @ **WHU** |
 
 </div>
 
@@ -215,8 +220,9 @@
 
 | 🏫 Institution | 📚 Program | 📅 Period |
 |:---:|:---:|:---:|
-| [**Wuhan University**](https://www.whu.edu.cn/) | B.Eng. Communication Engineering | 2023 - 2027 |
-| 🏔️ **LIESMARS** | Research Intern · 3D Vision & Robotics | 2024 - Present |
+| [**Wuhan University**](https://www.whu.edu.cn/) | B.Eng. Telecommunications Engineering | 2024 - 2028 |
+| 🧑‍🏫 **Prof. Yu Huai's Group** (WHU School of Electronic Information) | SLAM · Wheel-Legged Robot | 2025 - Present |
+| 🏔️ **LIESMARS** | Research Intern · 3D Vision & Robotics | 2026 - Present |
 
 </div>
 
@@ -235,15 +241,6 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake | 贪吃蛇
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ArbeiterKlassen/ArbeiterKlassen/output/snake.svg)
-
-</div>
-
 ---
 
 ## 👀 Visitor Count | 访问量
@@ -259,7 +256,5 @@
 <div align="center">
 
 ### ⭐ *Star this repo if you find it interesting!* ⭐
-
-<img src="https://raw.githubusercontent.com/ArbeiterKlassen/ArbeiterKlassen/output/snake.svg" width="0" />
 
 </div>
