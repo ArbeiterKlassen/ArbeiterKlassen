@@ -20,8 +20,9 @@
 
 🔬 **Research Intern** @ [LIESMARS](http://www.liesmars.whu.edu.cn/)
    - State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing
+   - Advisor: Hongjuan Zhang (张红娟)
 
-🧑‍🏫 **Undergraduate Researcher** under Assoc. Prof. Yu Huai (余淮) @ WHU School of Electronic Information
+🧑‍🏫 **Undergraduate Researcher** under Assoc. Prof. Huai Yu (余淮) @ WHU School of Electronic Information
    - SLAM · Wheel-Legged Robot · National Innovation Program (2025 - Present)
 
 📝 **Paper** under review @ **AAAI**
@@ -88,10 +89,10 @@
 | 🗓️ Date | 📰 News |
 |:---:|---|
 | 🏆 2026 | 🎓 National College Student Innovation Program — **National Key Project, Excellent Completion** (大创国家级重点优秀结题) — Wheel-Legged Robot SLAM with OpenVINS |
-| 🔬 2026-03 | Research Intern @ **LIESMARS**, Wuhan University |
+| 🔬 2026-03 | Research Intern @ **LIESMARS** (Advisor: Hongjuan Zhang 张红娟), Wuhan University |
 | 🥈 2025 | 📐 **2nd Prize**, National Mathematical Modeling Contest (高教杯全国数模大赛二等奖) |
 | 🎓 2025 | 📝 Paper under review @ **AAAI** |
-| 🧑‍🔬 2025-09 | Research with Assoc. Prof. Yu Huai (余淮) @ WHU School of Electronic Information — SLAM · Wheel-Legged Robot (大创) |
+| 🧑‍🔬 2025-09 | Research with Assoc. Prof. Huai Yu (余淮) @ WHU School of Electronic Information — SLAM · Wheel-Legged Robot (大创) |
 | 💻 High School | 🏅 **Provincial 2nd Prize**, National Olympiad in Informatics (NOI省二等奖) |
 | 🏫 2024 | Started B.Eng. in Telecommunications Engineering @ **WHU** |
 
@@ -163,9 +164,7 @@
 
 <div align="center">
 
-![ArbeiterKlassen's Stats](https://github-readme-stats.vercel.app/api?username=ArbeiterKlassen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArbeiterKlassen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8)
+![Metrics](https://metrics.lecoq.io/ArbeiterKlassen)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArbeiterKlassen&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=EF4444&currStreakLabel=3B82F6&sideLabels=3B82F6&currStreakNum=C9D1D9&sideNums=C9D1D9)
 
@@ -174,41 +173,18 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies | 奖杯
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ArbeiterKlassen&theme=tokyonight&no-frame=true&column=7&margin-w=10&no-bg=true)
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects | 精选项目
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/ArbeiterKlassen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArbeiterKlassen&repo=ArbeiterKlassen&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <br/>
-  <sub>🔬 Point Cloud / SLAM / Autonomous Driving Research</sub>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/ArbeiterKlassen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArbeiterKlassen&repo=ArbeiterKlassen&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <br/>
-  <sub>🤖 More projects coming soon...</sub>
-</td>
-</tr>
-</table>
+| Project | Description | Status |
+|:---|:---|:---|
+| 🦿 **Wheel-Legged Robot SLAM** | OpenVINS-based SLAM · mapping · planning (National Innovation Program, with Assoc. Prof. Huai Yu 余淮) | ✅ National Key · Excellent Completion (2026) |
+| 🔬 **Point Cloud Completion** | 3D shape completion & LiDAR perception @ LIESMARS | 🔬 In progress |
 
-> 💡 *Got open-source projects you want to showcase? Update the repo name in the pin badges above!*
+*Open-source repositories coming soon — stay tuned!*
 
 </div>
 
@@ -221,8 +197,8 @@
 | 🏫 Institution | 📚 Program | 📅 Period |
 |:---:|:---:|:---:|
 | [**Wuhan University**](https://www.whu.edu.cn/) | B.Eng. Telecommunications Engineering | 2024 - 2028 |
-| 🧑‍🏫 **Prof. Yu Huai's Group** (WHU School of Electronic Information) | SLAM · Wheel-Legged Robot | 2025 - Present |
-| 🏔️ **LIESMARS** | Research Intern · 3D Vision & Robotics | 2026 - Present |
+| 🧑‍🏫 **Prof. Huai Yu's Group** (WHU School of Electronic Information) | SLAM · Wheel-Legged Robot | 2025 - Present |
+| 🏔️ **LIESMARS** | Research Intern · 3D Vision & Robotics · Advisor: Hongjuan Zhang | 2026 - Present |
 
 </div>
 
