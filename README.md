@@ -16,7 +16,7 @@
 
 🎓 **Undergraduate Student** @ [Wuhan University](https://www.whu.edu.cn/)
    - School of Electronic Information · Telecommunications Engineering (2024 - 2028)
-   - Rising Junior · 即将升入大三
+   - Junior · 大三 (3rd Year)
 
 🔬 **Research Intern** @ [LIESMARS](http://www.liesmars.whu.edu.cn/)
    - State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing
