@@ -89,9 +89,9 @@
 | 🗓️ Date | 📰 News |
 |:---:|---|
 | 🏆 2026 | 🎓 National College Student Innovation Program — **National Key Project, Excellent Completion** (大创国家级重点优秀结题) — Wheel-Legged Robot SLAM with OpenVINS |
+| 🎓 2026 | 📝 Paper under review @ **AAAI** |
 | 🔬 2026-03 | Research Intern @ **LIESMARS** (Advisor: Hongjuan Zhang 张红娟), Wuhan University |
 | 🥈 2025 | 📐 **2nd Prize**, National Mathematical Modeling Contest (高教杯全国数模大赛二等奖) |
-| 🎓 2025 | 📝 Paper under review @ **AAAI** |
 | 🧑‍🔬 2025-09 | Research with Assoc. Prof. Huai Yu (余淮) @ WHU School of Electronic Information — SLAM · Wheel-Legged Robot (大创) |
 | 💻 High School | 🏅 **Provincial 2nd Prize**, National Olympiad in Informatics (NOI省二等奖) |
 | 🏫 2024 | Started B.Eng. in Telecommunications Engineering @ **WHU** |
